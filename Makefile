@@ -1,5 +1,5 @@
 FC = gfortran
-FFLAGS = -O -std=legacy
+FFLAGS = -O0 -std=legacy
 
 OBJS = nec2dxs.o
 
