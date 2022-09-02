@@ -25,7 +25,7 @@ If you have installed [Xnecview], you can check the results graphically. Start i
 
         $ xnecview example1.nec example1.out
 
-![Screenshot at 2022-08-26 14-46-22](https://user-images.githubusercontent.com/1257505/186913613-ebee1fdc-7544-41b4-afb9-9790ed6967ac.png)
+![Screenshot at 2022-09-02 18-13-46](https://user-images.githubusercontent.com/1257505/188195788-aee871ad-d1e5-4893-a084-26d5a0cb3bd5.png)
 
-[NEC2]: https://nec2.org
+[NEC2]: https://www.nec2.org
 [Xnecview]: https://www.pa3fwm.nl/software/xnecview
