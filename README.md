@@ -8,13 +8,9 @@ on the original FORTRAN77 source and includes the following features:
 * Fixes taken from Arie Voors (the author of 4nec2)
 * Redirection of terminal standard input and output
 
-Before you start, adapt the file `nec2dpar.inc` to your needs. You can choose
+Before you start, adapt the file `NEC2DPAR.INC` to your needs. You can choose
 the maximum number of segments used by the program here. A default is already
 configured.
-
-If this doesn't work, link the needed configuration file by e.g.:
-
-        $ ln -s nec2d3000.inc NEC2DPAR.INC
 
 The `gfortran` compiler is needed to build the program. A `Makefile` is included so that you simply have to run `make` to compile the
 source:
