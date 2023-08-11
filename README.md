@@ -5,7 +5,7 @@ on the original FORTRAN77 source and includes the following features:
 
 * Double precision (added 1985)
 * Sommerfeld/Norton ground method
-* Fixes taken from Arie Voors (the author of 4nec2)
+* Fixes taken from Arie Voors (the author of [4nec2])
 * Redirection of terminal standard input and output
 
 Before you start, adapt the file `NEC2DPAR.INC` to your needs. You can choose
@@ -29,3 +29,4 @@ If you have installed [Xnecview], you can check the results graphically. Start i
 
 [NEC2]: https://www.nec2.org
 [Xnecview]: https://www.pa3fwm.nl/software/xnecview
+[4nec2]: https://www.qsl.net/4nec2
